@@ -89,7 +89,16 @@ Both solvers used the following input data, where each job consists of a sequenc
 
 ## Conclusion
 
-Based on the comparison, we can conclude that...
+Based on the results obtained from solving the Jobshop Schedule Problem using OR-Tools and Gurobi, both solvers were able to find an optimal schedule length of 55.0. 
+
+In terms of machine assignments, there are slight differences between the two solvers, but overall, they were able to allocate tasks to machines effectively. 
+
+When comparing the statistics, OR-Tools had a slightly higher number of conflicts and branches, but it had a faster wall time compared to Gurobi. However, Gurobi had a faster time taken to solve the problem.
+
+In conclusion, both OR-Tools and Gurobi are capable of solving the Jobshop Schedule Problem effectively, with similar optimal schedule lengths. The choice between the two solvers may depend on specific requirements such as speed or ease of use.
+
+![Comparison Chart](images/comparison_chart.png)
+
 
 ![Comparison Chart](images/comparison_chart.png)
 
