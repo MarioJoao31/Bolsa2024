@@ -40,7 +40,7 @@ def open_file():
     # Open file dialog to select file (including .jss files)
     file_path = filedialog.askopenfilename(
         title="Select the dataset file", 
-        filetypes=[("Text Files", "*.txt"), ("Job Shop Scheduling Files", "*.jss"), ("All Files", "*.*")]
+        filetypes=[ ("Job Shop Scheduling Files", "*.jss"), ("All Files", "*.*")]
     )
     
     if file_path:
