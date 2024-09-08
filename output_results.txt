@@ -1,0 +1,401 @@
+Processing file: ta01.jss
+No solution found.
+
+Statistics
+  - Number of variables: 2026
+  - Number of constraints: 3600
+  - Time taken to solve the problem: 225.25222611427307s
+
+
+
+Processing file: ta02.jss
+No solution found.
+
+Statistics
+  - Number of variables: 2026
+  - Number of constraints: 3600
+  - Time taken to solve the problem: 2.022930145263672s
+
+
+
+Processing file: ta03.jss
+No solution found.
+
+Statistics
+  - Number of variables: 2026
+  - Number of constraints: 3600
+  - Time taken to solve the problem: 2.1250739097595215s
+
+
+
+Processing file: ta04.jss
+No solution found.
+
+Statistics
+  - Number of variables: 2026
+  - Number of constraints: 3600
+  - Time taken to solve the problem: 0.17110204696655273s
+
+
+
+Processing file: ta05.jss
+No solution found.
+
+Statistics
+  - Number of variables: 2026
+  - Number of constraints: 3600
+  - Time taken to solve the problem: 0.1670541763305664s
+
+
+
+Processing file: ta06.jss
+No solution found.
+
+Statistics
+  - Number of variables: 2026
+  - Number of constraints: 3600
+  - Time taken to solve the problem: 0.1647810935974121s
+
+
+
+Processing file: ta07.jss
+No solution found.
+
+Statistics
+  - Number of variables: 2026
+  - Number of constraints: 3600
+  - Time taken to solve the problem: 0.1709911823272705s
+
+
+
+Processing file: ta08.jss
+No solution found.
+
+Statistics
+  - Number of variables: 2026
+  - Number of constraints: 3600
+  - Time taken to solve the problem: 0.16572332382202148s
+
+
+
+Processing file: ta09.jss
+No solution found.
+
+Statistics
+  - Number of variables: 2026
+  - Number of constraints: 3600
+  - Time taken to solve the problem: 0.16972804069519043s
+
+
+
+Processing file: ta10.jss
+No solution found.
+
+Statistics
+  - Number of variables: 2026
+  - Number of constraints: 3600
+  - Time taken to solve the problem: 0.1707630157470703s
+
+
+
+Processing file: ta11.jss
+No solution found.
+
+Statistics
+  - Number of variables: 3451
+  - Number of constraints: 6300
+  - Time taken to solve the problem: 0.16445398330688477s
+
+
+
+Processing file: ta12.jss
+No solution found.
+
+Statistics
+  - Number of variables: 3451
+  - Number of constraints: 6300
+  - Time taken to solve the problem: 0.1722249984741211s
+
+
+
+Processing file: ta13.jss
+No solution found.
+
+Statistics
+  - Number of variables: 3451
+  - Number of constraints: 6300
+  - Time taken to solve the problem: 0.1716618537902832s
+
+
+
+Processing file: ta14.jss
+No solution found.
+
+Statistics
+  - Number of variables: 3451
+  - Number of constraints: 6300
+  - Time taken to solve the problem: 0.17550396919250488s
+
+
+
+Processing file: ta15.jss
+No solution found.
+
+Statistics
+  - Number of variables: 3451
+  - Number of constraints: 6300
+  - Time taken to solve the problem: 0.1666269302368164s
+
+
+
+Processing file: ta16.jss
+No solution found.
+
+Statistics
+  - Number of variables: 3451
+  - Number of constraints: 6300
+  - Time taken to solve the problem: 0.16511106491088867s
+
+
+
+Processing file: ta17.jss
+No solution found.
+
+Statistics
+  - Number of variables: 3451
+  - Number of constraints: 6300
+  - Time taken to solve the problem: 0.17686200141906738s
+
+
+
+Processing file: ta18.jss
+No solution found.
+
+Statistics
+  - Number of variables: 3451
+  - Number of constraints: 6300
+  - Time taken to solve the problem: 0.172440767288208s
+
+
+
+Processing file: ta19.jss
+No solution found.
+
+Statistics
+  - Number of variables: 3451
+  - Number of constraints: 6300
+  - Time taken to solve the problem: 0.15401124954223633s
+
+
+
+Processing file: ta20.jss
+No solution found.
+
+Statistics
+  - Number of variables: 3451
+  - Number of constraints: 6300
+  - Time taken to solve the problem: 0.15892410278320312s
+
+
+
+Processing file: ta21.jss
+No solution found.
+
+Statistics
+  - Number of variables: 4601
+  - Number of constraints: 8400
+  - Time taken to solve the problem: 0.15700006484985352s
+
+
+
+Processing file: ta22.jss
+No solution found.
+
+Statistics
+  - Number of variables: 4601
+  - Number of constraints: 8400
+  - Time taken to solve the problem: 0.19478702545166016s
+
+
+
+Processing file: ta23.jss
+No solution found.
+
+Statistics
+  - Number of variables: 4601
+  - Number of constraints: 8400
+  - Time taken to solve the problem: 0.11372494697570801s
+
+
+
+Processing file: ta24.jss
+No solution found.
+
+Statistics
+  - Number of variables: 4601
+  - Number of constraints: 8400
+  - Time taken to solve the problem: 0.18048381805419922s
+
+
+
+Processing file: ta25.jss
+No solution found.
+
+Statistics
+  - Number of variables: 4601
+  - Number of constraints: 8400
+  - Time taken to solve the problem: 0.15111088752746582s
+
+
+
+Processing file: ta26.jss
+No solution found.
+
+Statistics
+  - Number of variables: 4601
+  - Number of constraints: 8400
+  - Time taken to solve the problem: 0.15559697151184082s
+
+
+
+Processing file: ta27.jss
+No solution found.
+
+Statistics
+  - Number of variables: 4601
+  - Number of constraints: 8400
+  - Time taken to solve the problem: 0.1881260871887207s
+
+
+
+Processing file: ta28.jss
+No solution found.
+
+Statistics
+  - Number of variables: 4601
+  - Number of constraints: 8400
+  - Time taken to solve the problem: 0.1898670196533203s
+
+
+
+Processing file: ta29.jss
+No solution found.
+
+Statistics
+  - Number of variables: 4601
+  - Number of constraints: 8400
+  - Time taken to solve the problem: 0.14708805084228516s
+
+
+
+Processing file: ta30.jss
+No solution found.
+
+Statistics
+  - Number of variables: 4601
+  - Number of constraints: 8400
+  - Time taken to solve the problem: 0.17979907989501953s
+
+
+
+Processing file: ta31.jss
+No solution found.
+
+Statistics
+  - Number of variables: 7426
+  - Number of constraints: 13950
+  - Time taken to solve the problem: 0.16012787818908691s
+
+
+
+Processing file: ta32.jss
+No solution found.
+
+Statistics
+  - Number of variables: 7426
+  - Number of constraints: 13950
+  - Time taken to solve the problem: 0.17871475219726562s
+
+
+
+Processing file: ta33.jss
+No solution found.
+
+Statistics
+  - Number of variables: 7426
+  - Number of constraints: 13950
+  - Time taken to solve the problem: 0.1875782012939453s
+
+
+
+Processing file: ta34.jss
+No solution found.
+
+Statistics
+  - Number of variables: 7426
+  - Number of constraints: 13950
+  - Time taken to solve the problem: 0.16591525077819824s
+
+
+
+Processing file: ta35.jss
+No solution found.
+
+Statistics
+  - Number of variables: 7426
+  - Number of constraints: 13950
+  - Time taken to solve the problem: 0.17834711074829102s
+
+
+
+Processing file: ta36.jss
+No solution found.
+
+Statistics
+  - Number of variables: 7426
+  - Number of constraints: 13950
+  - Time taken to solve the problem: 0.16771197319030762s
+
+
+
+Processing file: ta37.jss
+No solution found.
+
+Statistics
+  - Number of variables: 7426
+  - Number of constraints: 13950
+  - Time taken to solve the problem: 0.1635117530822754s
+
+
+
+Processing file: ta38.jss
+No solution found.
+
+Statistics
+  - Number of variables: 7426
+  - Number of constraints: 13950
+  - Time taken to solve the problem: 0.18741130828857422s
+
+
+
+Processing file: ta39.jss
+No solution found.
+
+Statistics
+  - Number of variables: 7426
+  - Number of constraints: 13950
+  - Time taken to solve the problem: 0.17902207374572754s
+
+
+
+Processing file: ta40.jss
+No solution found.
+
+Statistics
+  - Number of variables: 7426
+  - Number of constraints: 13950
+  - Time taken to solve the problem: 0.17772388458251953s
+
+
+
+Processing file: ta41.jss

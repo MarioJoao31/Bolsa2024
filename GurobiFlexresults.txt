@@ -1,0 +1,31 @@
+############  Mk01.fjs ERROR
+
+Interrupt request received
+ 2320349 1775827  135.24922   75  212          -  121.00000      -   210 50945s
+
+Cutting planes:
+  Gomory: 146
+  Cover: 34
+  Implied bound: 157
+  MIR: 809
+  Mixing: 805
+  StrongCG: 148
+  Flow cover: 9459
+  Inf proof: 1163
+  Zero half: 70
+  RLT: 1
+  Relax-and-lift: 13
+
+Explored 2322076 nodes (489117638 simplex iterations) in 50947.94 seconds (17410.45 work units)
+Thread count was 12 (of 12 available processors)
+
+Solution count 0
+
+Solve interrupted
+Best objective -, best bound 1.210000000000e+02, gap -
+No solution found.
+
+Statistics
+  - Number of variables: 1600
+  - Number of constraints: 2733
+  - Time taken to solve the problem: 50948.42331600189s
