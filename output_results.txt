@@ -1,10 +1,40 @@
 Processing file: ta01.jss
-No solution found.
+Optimal Schedule Length: 1231.0
+Machine 0: job_7_task_2   job_11_task_2  job_10_task_3  job_9_task_5   job_8_task_4   job_3_task_5   job_12_task_7  job_2_task_8   job_14_task_9  job_5_task_11  job_1_task_10  job_6_task_12  job_4_task_13  job_0_task_13  job_13_task_14 
+           [84,93]        [93,168]       [217,225]      [244,261]      [309,322]      [340,434]      [600,677]      [770,824]      [851,859]      [868,955]      [955,973]      [979,1016]     [1033,1075]    [1078,1148]    [1196,1231]    
+Machine 1: job_2_task_0   job_8_task_5   job_14_task_5  job_7_task_7   job_6_task_6   job_13_task_7  job_9_task_10  job_11_task_11 job_4_task_10  job_5_task_9   job_12_task_10 job_10_task_11 job_3_task_13  job_1_task_13  job_0_task_14  
+           [0,4]          [322,409]      [409,435]      [446,508]      [508,527]      [527,583]      [583,652]      [652,697]      [697,790]      [790,816]      [816,864]      [864,957]      [957,1049]     [1049,1148]    [1148,1231]    
+Machine 2: job_11_task_0  job_9_task_3   job_3_task_1   job_4_task_6   job_12_task_3  job_0_task_5   job_8_task_6   job_7_task_8   job_5_task_8   job_2_task_9   job_6_task_10  job_14_task_12 job_13_task_13 job_10_task_14 job_1_task_14  
+           [0,47]         [121,181]      [181,204]      [313,408]      [417,437]      [437,452]      [452,534]      [534,540]      [706,784]      [824,892]      [892,935]      [965,1048]     [1092,1099]    [1125,1198]    [1198,1231]    
+Machine 3: job_6_task_1   job_5_task_1   job_0_task_4   job_9_task_7   job_12_task_4  job_7_task_11  job_11_task_12 job_10_task_10 job_14_task_11 job_1_task_11  job_13_task_12 job_2_task_13  job_3_task_14  job_4_task_14  job_8_task_14  
+           [18,93]        [186,247]      [301,327]      [327,416]      [475,506]      [625,705]      [705,772]      [774,864]      [871,958]      [973,1024]     [1029,1045]    [1045,1080]    [1080,1089]    [1089,1185]    [1216,1231]    
+Machine 4: job_10_task_0  job_13_task_2  job_1_task_0   job_0_task_2   job_4_task_4   job_14_task_4  job_5_task_5   job_3_task_7   job_7_task_10  job_6_task_8   job_12_task_9  job_8_task_9   job_9_task_13  job_2_task_12  job_11_task_14 
+           [0,90]         [90,141]       [141,215]      [215,225]      [225,261]      [372,409]      [467,498]      [498,591]      [602,609]      [609,694]      [736,816]      [816,872]      [946,952]      [999,1038]     [1038,1125]    
+Machine 5: job_5_task_0   job_7_task_1   job_3_task_0   job_12_task_0  job_10_task_4  job_13_task_4  job_1_task_1   job_11_task_7  job_8_task_7   job_4_task_9   job_2_task_7   job_6_task_9   job_9_task_14  job_0_task_12  job_14_task_14 
+           [3,32]         [32,84]        [84,157]       [176,241]      [241,332]      [332,349]      [372,403]      [415,449]      [534,617]      [617,693]      [764,770]      [770,843]      [952,965]      [965,1061]     [1073,1170]    
+Machine 6: job_9_task_0   job_0_task_0   job_4_task_2   job_8_task_2   job_3_task_3   job_11_task_4  job_14_task_3  job_13_task_5  job_6_task_5   job_12_task_5  job_10_task_6  job_2_task_4   job_1_task_8   job_7_task_13  job_5_task_13  
+           [0,5]          [5,99]         [101,122]      [122,218]      [234,264]      [264,315]      [315,349]      [349,438]      [438,506]      [506,539]      [539,628]      [631,681]      [785,876]      [1111,1168]    [1187,1201]    
+Machine 7: job_4_task_0   job_6_task_2   job_7_task_3   job_10_task_1  job_0_task_3   job_11_task_6  job_1_task_2   job_9_task_9   job_3_task_8   job_5_task_7   job_14_task_10 job_13_task_9  job_2_task_10  job_8_task_11  job_12_task_13 
+           [0,78]         [93,113]       [116,165]      [165,192]      [248,301]      [323,407]      [407,495]      [495,583]      [591,623]      [623,706]      [859,871]      [871,889]      [892,974]      [974,982]      [1091,1187]    
+Machine 8: job_13_task_0  job_4_task_1   job_6_task_3   job_14_task_1  job_9_task_4   job_12_task_1  job_2_task_1   job_11_task_8  job_7_task_9   job_10_task_7  job_0_task_8   job_1_task_5   job_3_task_11  job_8_task_10  job_5_task_14  
+           [0,28]         [78,101]       [113,117]      [142,158]      [181,222]      [241,303]      [313,395]      [449,477]      [540,602]      [628,677]      [677,687]      [687,765]      [765,821]      [872,957]      [1201,1231]    
+Machine 9: job_9_task_2   job_3_task_2   job_4_task_5   job_2_task_2   job_13_task_6  job_11_task_9  job_12_task_6  job_1_task_7   job_0_task_10  job_7_task_12  job_8_task_12  job_14_task_13 job_10_task_13 job_5_task_12  job_6_task_14  
+           [91,121]       [204,234]      [284,313]      [395,435]      [438,497]      [497,557]      [567,600]      [773,780]      [780,873]      [894,897]      [982,1048]     [1048,1068]    [1068,1103]    [1103,1165]    [1165,1231]    
+Machine 10: job_8_task_0   job_14_task_0  job_4_task_3   job_3_task_4   job_11_task_5  job_12_task_2  job_9_task_8   job_0_task_6   job_10_task_9  job_5_task_10  job_1_task_9   job_6_task_11  job_2_task_11  job_13_task_11 job_7_task_14  
+           [0,85]         [85,142]       [142,202]      [264,317]      [317,320]      [320,417]      [417,495]      [530,595]      [746,774]      [816,866]      [876,955]      [955,979]      [979,999]      [999,1029]     [1224,1231]    
+Machine 11: job_7_task_0   job_9_task_1   job_8_task_1   job_5_task_4   job_6_task_7   job_0_task_7   job_2_task_5   job_3_task_10  job_1_task_6   job_11_task_13 job_14_task_8  job_12_task_11 job_13_task_10 job_4_task_12  job_10_task_12 
+           [0,32]         [32,91]        [91,121]       [434,450]      [527,581]      [595,677]      [681,735]      [735,765]      [765,773]      [788,846]      [846,851]      [866,956]      [956,973]      [981,1033]     [1062,1068]    
+Machine 12: job_6_task_0   job_0_task_1   job_7_task_4   job_11_task_3  job_14_task_2  job_5_task_2   job_10_task_5  job_2_task_3   job_4_task_8   job_8_task_8   job_13_task_8  job_9_task_11  job_3_task_12  job_12_task_12 job_1_task_12  
+           [0,18]         [99,165]       [165,226]      [226,234]      [234,276]      [276,364]      [364,444]      [444,530]      [530,609]      [617,695]      [695,758]      [776,821]      [821,848]      [956,1031]     [1031,1049]    
+Machine 13: job_13_task_3  job_10_task_2  job_7_task_5   job_9_task_6   job_5_task_3   job_3_task_6   job_14_task_6  job_11_task_10 job_1_task_4   job_12_task_8  job_2_task_6   job_4_task_11  job_0_task_11  job_6_task_13  job_8_task_13  
+           [141,216]      [216,217]      [226,261]      [261,327]      [364,434]      [434,492]      [492,560]      [560,629]      [629,686]      [686,736]      [736,757]      [831,873]      [873,965]      [1041,1128]    [1128,1216]    
+Machine 14: job_13_task_1  job_11_task_1  job_6_task_4   job_8_task_3   job_7_task_6   job_4_task_7   job_1_task_3   job_5_task_6   job_3_task_9   job_10_task_8  job_0_task_9   job_14_task_7  job_9_task_12  job_2_task_14  job_12_task_14 
+           [28,49]        [49,92]        [117,208]      [218,309]      [309,408]      [408,507]      [507,558]      [558,623]      [623,714]      [714,746]      [746,773]      [773,846]      [864,946]      [1119,1187]    [1187,1231]    
 
 Statistics
   - Number of variables: 2026
   - Number of constraints: 3600
-  - Time taken to solve the problem: 225.25222611427307s
+  - Time taken to solve the problem: 1418.3604645729065s
 
 
 
@@ -14,7 +44,7 @@ No solution found.
 Statistics
   - Number of variables: 2026
   - Number of constraints: 3600
-  - Time taken to solve the problem: 2.022930145263672s
+  - Time taken to solve the problem: 5575.849585771561s
 
 
 
@@ -24,7 +54,7 @@ No solution found.
 Statistics
   - Number of variables: 2026
   - Number of constraints: 3600
-  - Time taken to solve the problem: 2.1250739097595215s
+  - Time taken to solve the problem: 1.5740525722503662s
 
 
 
@@ -34,7 +64,7 @@ No solution found.
 Statistics
   - Number of variables: 2026
   - Number of constraints: 3600
-  - Time taken to solve the problem: 0.17110204696655273s
+  - Time taken to solve the problem: 0.7405819892883301s
 
 
 
@@ -44,7 +74,7 @@ No solution found.
 Statistics
   - Number of variables: 2026
   - Number of constraints: 3600
-  - Time taken to solve the problem: 0.1670541763305664s
+  - Time taken to solve the problem: 0.4739081859588623s
 
 
 
@@ -54,7 +84,7 @@ No solution found.
 Statistics
   - Number of variables: 2026
   - Number of constraints: 3600
-  - Time taken to solve the problem: 0.1647810935974121s
+  - Time taken to solve the problem: 0.312518835067749s
 
 
 
@@ -64,7 +94,7 @@ No solution found.
 Statistics
   - Number of variables: 2026
   - Number of constraints: 3600
-  - Time taken to solve the problem: 0.1709911823272705s
+  - Time taken to solve the problem: 0.2837653160095215s
 
 
 
@@ -74,7 +104,7 @@ No solution found.
 Statistics
   - Number of variables: 2026
   - Number of constraints: 3600
-  - Time taken to solve the problem: 0.16572332382202148s
+  - Time taken to solve the problem: 0.21769189834594727s
 
 
 
@@ -84,7 +114,7 @@ No solution found.
 Statistics
   - Number of variables: 2026
   - Number of constraints: 3600
-  - Time taken to solve the problem: 0.16972804069519043s
+  - Time taken to solve the problem: 0.2082207202911377s
 
 
 
@@ -94,7 +124,7 @@ No solution found.
 Statistics
   - Number of variables: 2026
   - Number of constraints: 3600
-  - Time taken to solve the problem: 0.1707630157470703s
+  - Time taken to solve the problem: 0.2169480323791504s
 
 
 
@@ -104,298 +134,8 @@ No solution found.
 Statistics
   - Number of variables: 3451
   - Number of constraints: 6300
-  - Time taken to solve the problem: 0.16445398330688477s
+  - Time taken to solve the problem: 0.30600929260253906s
 
 
 
 Processing file: ta12.jss
-No solution found.
-
-Statistics
-  - Number of variables: 3451
-  - Number of constraints: 6300
-  - Time taken to solve the problem: 0.1722249984741211s
-
-
-
-Processing file: ta13.jss
-No solution found.
-
-Statistics
-  - Number of variables: 3451
-  - Number of constraints: 6300
-  - Time taken to solve the problem: 0.1716618537902832s
-
-
-
-Processing file: ta14.jss
-No solution found.
-
-Statistics
-  - Number of variables: 3451
-  - Number of constraints: 6300
-  - Time taken to solve the problem: 0.17550396919250488s
-
-
-
-Processing file: ta15.jss
-No solution found.
-
-Statistics
-  - Number of variables: 3451
-  - Number of constraints: 6300
-  - Time taken to solve the problem: 0.1666269302368164s
-
-
-
-Processing file: ta16.jss
-No solution found.
-
-Statistics
-  - Number of variables: 3451
-  - Number of constraints: 6300
-  - Time taken to solve the problem: 0.16511106491088867s
-
-
-
-Processing file: ta17.jss
-No solution found.
-
-Statistics
-  - Number of variables: 3451
-  - Number of constraints: 6300
-  - Time taken to solve the problem: 0.17686200141906738s
-
-
-
-Processing file: ta18.jss
-No solution found.
-
-Statistics
-  - Number of variables: 3451
-  - Number of constraints: 6300
-  - Time taken to solve the problem: 0.172440767288208s
-
-
-
-Processing file: ta19.jss
-No solution found.
-
-Statistics
-  - Number of variables: 3451
-  - Number of constraints: 6300
-  - Time taken to solve the problem: 0.15401124954223633s
-
-
-
-Processing file: ta20.jss
-No solution found.
-
-Statistics
-  - Number of variables: 3451
-  - Number of constraints: 6300
-  - Time taken to solve the problem: 0.15892410278320312s
-
-
-
-Processing file: ta21.jss
-No solution found.
-
-Statistics
-  - Number of variables: 4601
-  - Number of constraints: 8400
-  - Time taken to solve the problem: 0.15700006484985352s
-
-
-
-Processing file: ta22.jss
-No solution found.
-
-Statistics
-  - Number of variables: 4601
-  - Number of constraints: 8400
-  - Time taken to solve the problem: 0.19478702545166016s
-
-
-
-Processing file: ta23.jss
-No solution found.
-
-Statistics
-  - Number of variables: 4601
-  - Number of constraints: 8400
-  - Time taken to solve the problem: 0.11372494697570801s
-
-
-
-Processing file: ta24.jss
-No solution found.
-
-Statistics
-  - Number of variables: 4601
-  - Number of constraints: 8400
-  - Time taken to solve the problem: 0.18048381805419922s
-
-
-
-Processing file: ta25.jss
-No solution found.
-
-Statistics
-  - Number of variables: 4601
-  - Number of constraints: 8400
-  - Time taken to solve the problem: 0.15111088752746582s
-
-
-
-Processing file: ta26.jss
-No solution found.
-
-Statistics
-  - Number of variables: 4601
-  - Number of constraints: 8400
-  - Time taken to solve the problem: 0.15559697151184082s
-
-
-
-Processing file: ta27.jss
-No solution found.
-
-Statistics
-  - Number of variables: 4601
-  - Number of constraints: 8400
-  - Time taken to solve the problem: 0.1881260871887207s
-
-
-
-Processing file: ta28.jss
-No solution found.
-
-Statistics
-  - Number of variables: 4601
-  - Number of constraints: 8400
-  - Time taken to solve the problem: 0.1898670196533203s
-
-
-
-Processing file: ta29.jss
-No solution found.
-
-Statistics
-  - Number of variables: 4601
-  - Number of constraints: 8400
-  - Time taken to solve the problem: 0.14708805084228516s
-
-
-
-Processing file: ta30.jss
-No solution found.
-
-Statistics
-  - Number of variables: 4601
-  - Number of constraints: 8400
-  - Time taken to solve the problem: 0.17979907989501953s
-
-
-
-Processing file: ta31.jss
-No solution found.
-
-Statistics
-  - Number of variables: 7426
-  - Number of constraints: 13950
-  - Time taken to solve the problem: 0.16012787818908691s
-
-
-
-Processing file: ta32.jss
-No solution found.
-
-Statistics
-  - Number of variables: 7426
-  - Number of constraints: 13950
-  - Time taken to solve the problem: 0.17871475219726562s
-
-
-
-Processing file: ta33.jss
-No solution found.
-
-Statistics
-  - Number of variables: 7426
-  - Number of constraints: 13950
-  - Time taken to solve the problem: 0.1875782012939453s
-
-
-
-Processing file: ta34.jss
-No solution found.
-
-Statistics
-  - Number of variables: 7426
-  - Number of constraints: 13950
-  - Time taken to solve the problem: 0.16591525077819824s
-
-
-
-Processing file: ta35.jss
-No solution found.
-
-Statistics
-  - Number of variables: 7426
-  - Number of constraints: 13950
-  - Time taken to solve the problem: 0.17834711074829102s
-
-
-
-Processing file: ta36.jss
-No solution found.
-
-Statistics
-  - Number of variables: 7426
-  - Number of constraints: 13950
-  - Time taken to solve the problem: 0.16771197319030762s
-
-
-
-Processing file: ta37.jss
-No solution found.
-
-Statistics
-  - Number of variables: 7426
-  - Number of constraints: 13950
-  - Time taken to solve the problem: 0.1635117530822754s
-
-
-
-Processing file: ta38.jss
-No solution found.
-
-Statistics
-  - Number of variables: 7426
-  - Number of constraints: 13950
-  - Time taken to solve the problem: 0.18741130828857422s
-
-
-
-Processing file: ta39.jss
-No solution found.
-
-Statistics
-  - Number of variables: 7426
-  - Number of constraints: 13950
-  - Time taken to solve the problem: 0.17902207374572754s
-
-
-
-Processing file: ta40.jss
-No solution found.
-
-Statistics
-  - Number of variables: 7426
-  - Number of constraints: 13950
-  - Time taken to solve the problem: 0.17772388458251953s
-
-
-
-Processing file: ta41.jss

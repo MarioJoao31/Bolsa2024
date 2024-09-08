@@ -5,7 +5,12 @@ import os
 import time
 
 # Directory where the dataset files are located
-directory_path = "/Users/mariopinto/Desktop/Bolsa2024/jssp/taillard"
+#mac path
+#directory_path = "/Users/mariopinto/Desktop/Bolsa2024/jssp/taillard"
+
+#windows path
+directory_path = "C:/Users/Mario/Desktop/Bolsa2024/jssp/taillard"
+#
 
 # Function to parse the dataset from the selected file
 def parse_dataset(file_content):
