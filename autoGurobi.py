@@ -6,10 +6,10 @@ import time
 
 # Directory where the dataset files are located
 #mac path
-#directory_path = "/Users/mariopinto/Desktop/Bolsa2024/jssp/taillard"
+directory_path = "/Users/mariopinto/Desktop/Bolsa2024/jssp/taillard"
 
 #windows path
-directory_path = "C:/Users/Mario/Desktop/Bolsa2024/jssp/taillard"
+#directory_path = "C:/Users/Mario/Desktop/Bolsa2024/jssp/taillard"
 #
 
 # Function to parse the dataset from the selected file
@@ -142,7 +142,7 @@ def solve_jobshop(jobs_data, output_file):
 # Function to process all files in the directory
 def process_all_files():
     # Create or open the output file
-    with open("output_results.txt", "w") as output_file:
+    with open("output_resultsGurobi.txt", "w") as output_file:
         for file_number in range(1, 101):  # Assuming there are 100 files (ta01.js to ta100.js)
             file_name = f"ta{str(file_number).zfill(2)}.jss"  # Format the file name
             file_path = os.path.join(directory_path, file_name)
