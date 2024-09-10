@@ -4,7 +4,11 @@ import time
 import os
 
 # Path to the dataset folder
-folder_path = '/Users/mariopinto/Desktop/Bolsa2024/jssp/taillard/'
+#mac
+#folder_path = '/Users/mariopinto/Desktop/Bolsa2024/jssp/taillard/'
+
+#windows
+folder_path = 'C:/Users/Mario/Desktop/Bolsa2024/jssp/taillard'
 
 # Function to parse the dataset from a file
 def parse_dataset(file_path):
@@ -156,10 +160,14 @@ def solve_jobshop(jobs_data):
 
 # Function to automatically solve all dataset files
 def process_all_files():
-    output_path = "/Users/mariopinto/Desktop/Bolsa2024/output_resultsERTOOLS.txt"
+    #mac
+    #output_path = "/Users/mariopinto/Desktop/Bolsa2024/output_resultsERTOOLS.txt"
+
+    #windows
+    output_path= 'C:/Users/Mario/Desktop/Bolsa2024/output_resultsERTOOLS.txt'
 
     with open(output_path, "w") as output_file:
-        for i in range(1, 11):  # Assuming 10 files (ta01.js to ta10.js)
+        for i in range(1, 14):  # Assuming 10 files (ta01.js to ta10.js)
             file_name = f"ta{i:02d}.jss"
             file_path = os.path.join(folder_path, file_name)
             print(f"Processing file: {file_name}")

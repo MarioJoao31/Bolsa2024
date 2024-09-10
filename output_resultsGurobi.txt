@@ -1,40 +1,10 @@
 Processing file: ta01.jss
-Optimal Schedule Length: 1231.0
-Machine 0: job_7_task_2   job_11_task_2  job_10_task_3  job_9_task_5   job_8_task_4   job_3_task_5   job_12_task_7  job_2_task_8   job_14_task_9  job_5_task_11  job_1_task_10  job_6_task_12  job_4_task_13  job_0_task_13  job_13_task_14 
-           [84,93]        [93,168]       [217,225]      [244,261]      [309,322]      [340,434]      [607,684]      [774,828]      [851,859]      [870,957]      [957,975]      [999,1036]     [1036,1078]    [1078,1148]    [1196,1231]    
-Machine 1: job_2_task_0   job_8_task_5   job_14_task_5  job_7_task_7   job_6_task_6   job_13_task_7  job_9_task_10  job_11_task_11 job_4_task_10  job_5_task_9   job_12_task_10 job_10_task_11 job_3_task_13  job_1_task_13  job_0_task_14  
-           [0,4]          [322,409]      [409,435]      [435,497]      [506,525]      [527,583]      [583,652]      [652,697]      [697,790]      [790,816]      [816,864]      [864,957]      [957,1049]     [1049,1148]    [1148,1231]    
-Machine 2: job_11_task_0  job_9_task_3   job_3_task_1   job_4_task_6   job_12_task_3  job_7_task_8   job_0_task_5   job_8_task_6   job_5_task_8   job_2_task_9   job_6_task_10  job_14_task_12 job_13_task_13 job_10_task_14 job_1_task_14  
-           [0,47]         [121,181]      [181,204]      [280,375]      [424,444]      [497,503]      [504,519]      [562,644]      [712,790]      [828,896]      [907,950]      [958,1041]     [1041,1048]    [1125,1198]    [1198,1231]    
-Machine 3: job_6_task_1   job_5_task_1   job_9_task_7   job_12_task_4  job_0_task_4   job_7_task_11  job_11_task_12 job_10_task_10 job_14_task_11 job_13_task_12 job_1_task_11  job_2_task_13  job_3_task_14  job_4_task_14  job_8_task_14  
-           [18,93]        [132,193]      [327,416]      [444,475]      [478,504]      [627,707]      [707,774]      [774,864]      [871,958]      [959,975]      [975,1026]     [1076,1111]    [1111,1120]    [1120,1216]    [1216,1231]    
-Machine 4: job_10_task_0  job_13_task_2  job_1_task_0   job_4_task_4   job_0_task_2   job_14_task_4  job_5_task_5   job_3_task_7   job_7_task_10  job_6_task_8   job_12_task_9  job_8_task_9   job_2_task_12  job_9_task_13  job_11_task_14 
-           [0,90]         [90,141]       [141,215]      [215,251]      [298,308]      [372,409]      [450,481]      [498,591]      [620,627]      [651,736]      [736,816]      [849,905]      [998,1037]     [1055,1061]    [1073,1160]    
-Machine 5: job_5_task_0   job_7_task_1   job_3_task_0   job_12_task_0  job_1_task_1   job_13_task_4  job_10_task_4  job_11_task_7  job_4_task_9   job_8_task_7   job_2_task_7   job_6_task_9   job_0_task_12  job_9_task_14  job_14_task_14 
-           [0,29]         [32,84]        [84,157]       [157,222]      [222,253]      [253,270]      [270,361]      [438,472]      [609,685]      [685,768]      [768,774]      [824,897]      [965,1061]     [1061,1074]    [1134,1231]    
-Machine 6: job_9_task_0   job_0_task_0   job_4_task_2   job_8_task_2   job_3_task_3   job_11_task_4  job_14_task_3  job_13_task_5  job_6_task_5   job_12_task_5  job_10_task_6  job_2_task_4   job_1_task_8   job_7_task_13  job_5_task_13  
-           [0,5]          [5,99]         [101,122]      [122,218]      [234,264]      [264,315]      [315,349]      [349,438]      [438,506]      [506,539]      [539,628]      [628,678]      [780,871]      [1051,1108]    [1187,1201]    
-Machine 7: job_4_task_0   job_6_task_2   job_7_task_3   job_10_task_1  job_1_task_2   job_11_task_6  job_0_task_3   job_9_task_9   job_3_task_8   job_5_task_7   job_13_task_9  job_14_task_10 job_2_task_10  job_8_task_11  job_12_task_13 
-           [0,78]         [93,113]       [113,162]      [162,189]      [253,341]      [341,425]      [425,478]      [495,583]      [591,623]      [623,706]      [738,756]      [859,871]      [896,978]      [990,998]      [1091,1187]    
-Machine 8: job_13_task_0  job_4_task_1   job_6_task_3   job_14_task_1  job_9_task_4   job_12_task_1  job_2_task_1   job_11_task_8  job_7_task_9   job_10_task_7  job_0_task_8   job_1_task_5   job_3_task_11  job_8_task_10  job_5_task_14  
-           [0,28]         [78,101]       [113,117]      [142,158]      [181,222]      [222,284]      [319,401]      [472,500]      [558,620]      [628,677]      [677,687]      [687,765]      [782,838]      [905,990]      [1201,1231]    
-Machine 9: job_9_task_2   job_3_task_2   job_4_task_5   job_2_task_2   job_13_task_6  job_11_task_9  job_12_task_6  job_1_task_7   job_0_task_10  job_7_task_12  job_10_task_13 job_8_task_12  job_14_task_13 job_5_task_12  job_6_task_14  
-           [91,121]       [204,234]      [251,280]      [401,441]      [441,500]      [500,560]      [574,607]      [773,780]      [780,873]      [950,953]      [963,998]      [998,1064]     [1064,1084]    [1084,1146]    [1165,1231]    
-Machine 10: job_8_task_0   job_14_task_0  job_4_task_3   job_3_task_4   job_11_task_5  job_12_task_2  job_9_task_8   job_0_task_6   job_10_task_9  job_13_task_11 job_5_task_10  job_1_task_9   job_6_task_11  job_2_task_11  job_7_task_14  
-           [0,85]         [85,142]       [142,202]      [264,317]      [317,320]      [320,417]      [417,495]      [525,590]      [746,774]      [790,820]      [820,870]      [871,950]      [950,974]      [978,998]      [1224,1231]    
-Machine 11: job_7_task_0   job_9_task_1   job_8_task_1   job_5_task_4   job_6_task_7   job_0_task_7   job_2_task_5   job_3_task_10  job_1_task_6   job_13_task_10 job_14_task_8  job_12_task_11 job_10_task_12 job_4_task_12  job_11_task_13 
-           [0,32]         [32,91]        [92,122]       [434,450]      [525,579]      [590,672]      [678,732]      [732,762]      [765,773]      [773,790]      [846,851]      [864,954]      [957,963]      [963,1015]     [1015,1073]    
-Machine 12: job_6_task_0   job_0_task_1   job_7_task_4   job_11_task_3  job_14_task_2  job_5_task_2   job_10_task_5  job_2_task_3   job_4_task_8   job_13_task_8  job_9_task_11  job_8_task_8   job_3_task_12  job_12_task_12 job_1_task_12  
-           [0,18]         [99,165]       [165,226]      [226,234]      [234,276]      [276,364]      [364,444]      [444,530]      [530,609]      [652,715]      [715,760]      [768,846]      [846,873]      [956,1031]     [1031,1049]    
-Machine 13: job_13_task_3  job_10_task_2  job_7_task_5   job_9_task_6   job_5_task_3   job_3_task_6   job_14_task_6  job_11_task_10 job_1_task_4   job_12_task_8  job_2_task_6   job_4_task_11  job_0_task_11  job_6_task_13  job_8_task_13  
-           [141,216]      [216,217]      [226,261]      [261,327]      [364,434]      [434,492]      [492,560]      [560,629]      [629,686]      [686,736]      [743,764]      [831,873]      [873,965]      [1036,1123]    [1128,1216]    
-Machine 14: job_13_task_1  job_11_task_1  job_6_task_4   job_8_task_3   job_7_task_6   job_4_task_7   job_5_task_6   job_1_task_3   job_3_task_9   job_10_task_8  job_0_task_9   job_14_task_7  job_9_task_12  job_2_task_14  job_12_task_14 
-           [28,49]        [49,92]        [127,218]      [218,309]      [309,408]      [408,507]      [507,572]      [572,623]      [623,714]      [714,746]      [746,773]      [773,846]      [970,1052]     [1119,1187]    [1187,1231]    
+No solution found.
 
 Statistics
   - Number of variables: 2026
   - Number of constraints: 3600
-  - Time taken to solve the problem: 1139.0948219299316s
+  - Time taken to solve the problem: 6.940410852432251s
 
 
 
@@ -44,7 +14,38 @@ No solution found.
 Statistics
   - Number of variables: 2026
   - Number of constraints: 3600
-  - Time taken to solve the problem: 1237.4786040782928s
+  - Time taken to solve the problem: 0.5281813144683838s
 
 
 
+Processing file: ta03.jss
+No solution found.
+
+Statistics
+  - Number of variables: 2026
+  - Number of constraints: 3600
+  - Time taken to solve the problem: 0.12861037254333496s
+
+
+
+Processing file: ta04.jss
+No solution found.
+
+Statistics
+  - Number of variables: 2026
+  - Number of constraints: 3600
+  - Time taken to solve the problem: 0.15258121490478516s
+
+
+
+Processing file: ta05.jss
+No solution found.
+
+Statistics
+  - Number of variables: 2026
+  - Number of constraints: 3600
+  - Time taken to solve the problem: 0.13599443435668945s
+
+
+
+Processing file: ta06.jss

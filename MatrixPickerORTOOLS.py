@@ -3,6 +3,7 @@ from tkinter import filedialog, messagebox
 import collections
 from ortools.sat.python import cp_model
 import time
+import os 
 
 # Function to parse the dataset from the selected file
 def parse_dataset(file_content):
@@ -37,10 +38,12 @@ def parse_dataset(file_content):
 def open_file():
     global jobs_data
     # Open file dialog to select file (including .jss files)
-    file_path = filedialog.askopenfilename(
+    # Normalize the file path to handle Windows and macOS differences
+    file_path = os.path.normpath(filedialog.askopenfilename(
         title="Select the dataset file", 
-        filetypes=[ ("Job Shop Scheduling Files", "*.jss"), ("All Files", "*.*")]
-    )
+        filetypes=[("Job Shop Scheduling Files", "*.jss"), ("All Files", "*.*")]
+    ))
+
     
     if file_path:
         try:
